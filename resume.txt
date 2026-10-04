@@ -1,30 +1,55 @@
-Natalia Ostapenko
-•	Tg: @data_suetist
-•	Vk: https://vk.com/gunzer
-•	E-mail: nataliarudnevaa@gmail.com
-Experience
-Special Technological Center, 09.2021 – present, Data scientist
--	Neural network (RNN) development for detecting vulnerabilities (CWE).
--	Selection of the best parameters for neural networks (GridSearchCV, Optuna) to obtain the maximum quality of the model.
--	Developing of ML models for exploring events covered in the media. Calculating different indicators for features. (Pandas, PySpark)
-Freelance in Profi.ru, since 2020 - 09.2021
--	Neural network (СNN) development for recognizing images.
--	Research of dependencies and anomalies in data (Regression analysis, correlation analysis, variance analysis, cluster analysis, data dimensionality reduction)
-Hard skills
--	Python: scikit-learn, tensorflow, pytorch, catboost, pandas, scipy, matplotlib, seaborn, plotly, requests, pyspark
--	SQL, Docker, Anaconda
-Education
--	State University of Aerospace Instruction, Bachelor degree, Instruction, 2016-2020
-Additional courses
--	MIPT, «Deep learning school» online course, 2021
--	ITMO University «Machine learning: from basic concepts to solving non-standard problems», 2021
-Soft skills
--	Org of «Artificial Intelligence Researchers club» in ITMO University, 2020
-Links 
--	Github: https://github.com/madandalone
--	Pet projects: 
-Style transfer bot - https://github.com/madandalone/style_transfer_bot, 
-GAN for generating pictures - https://github.com/madandalone/itmo_war_project
-Hobby
--	Beading, running
+# Natalia Ostapenko
 
+- Tg: @data_suetist
+- E-mail: nataliarudnevaa@gmail.com
+- LinkedIn: https://www.linkedin.com/in/natalia-ostapenko-133b13214/
+
+## Experience
+
+### Sber, 11.2022 – present
+**Senior Data Scientist**  
+*Promoted from Middle Data Scientist to Senior Data Scientist in 11.2024.*
+
+- Designed and deployed a multi-agent system based on LangGraph for transaction monitoring and expert conclusion generation. The system consists of specialized analyst agents and a judge agent and reduced manual expert workload by 30%.
+- Developed classical ML models (XGBoost, CatBoost) for compliance and anti-fraud tasks on transactional data. Improved fraud detection recall by 15% through feature engineering and model optimization.
+- Developed a Transformer-based model using Linformer and transaction embeddings for sequential transaction modeling and scoring.
+- Developed reusable batch inference components for running ML models on large-scale datasets in production.
+- Developed a LightGBM-to-ONNX conversion pipeline for production inference. Investigated prediction discrepancies caused by numerical precision of tree thresholds and implemented a solution that preserved model quality after conversion.
+- Developed post-production model monitoring for tracking model quality, feature and score distributions, data drift, and model degradation.
+- Built data pipelines and analytical datasets for large-scale transactional data using PySpark and SQL.
+- Conduct technical interviews and contribute to onboarding and internal knowledge-sharing activities.
+
+### Special Technological Center, 09.2021 – 10.2022
+**Junior Data Scientist**
+
+- Developed ML models for source code analysis and vulnerability detection (CVE).
+- Researched and compared RNN, GRU, and Word2Vec-based approaches for source code representation and analysis.
+- Built data preparation pipelines using PySpark for processing large-scale datasets.
+- Developed model training and evaluation pipelines covering data preprocessing, experimentation, training, and performance assessment.
+
+## Hard skills
+
+- **Programming & Data:** Python, SQL, PySpark, Pandas, NumPy
+- **Machine Learning:** scikit-learn, CatBoost, XGBoost, LightGBM
+- **Deep Learning:** PyTorch, Transformers, Linformer, embeddings
+- **LLM & AI Agents:** LangGraph, LangChain, prompt engineering, multi-agent systems
+- **Production ML:** ONNX, batch inference, model monitoring
+- **Other:** Git, NetworkX, iGraph, Plotly, Seaborn, Jira, Confluence
+
+## Education
+
+### ITMO University
+**Master's degree, Software Engineering for AI, 2026 – 2028**
+
+### State University of Aerospace Instrumentation
+**Bachelor's degree, Instrumentation, 2016 – 2020**
+
+## Additional courses
+
+- MIPT, **Deep Learning School**, 2021
+- ITMO University, **Machine Learning: From Basic Concepts to Solving Non-standard Problems**, 2021
+
+## Links
+
+- GitHub: https://github.com/madandalone
+- Telegram channel about Data Science & ML: https://t.me/data_suetistka

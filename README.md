@@ -43,7 +43,7 @@
 `scikit-learn` `CatBoost` `XGBoost` `LightGBM`
 
 **Deep Learning**  
-`PyTorch` `Transformers` `Linformer` `Embeddings`
+`PyTorch` `Transformers` `Embeddings`
 
 **LLM & AI Agents**  
 `LangGraph` `LangChain` `Prompt Engineering` `Multi-Agent Systems`
